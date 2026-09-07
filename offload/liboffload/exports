@@ -22,7 +22,6 @@ global:
     "llvm::omp::target::plugin::GenericPluginTy::initialize_record_replay(int, long, void*, bool, bool, bool, bool, char const*, char const*)";
     "llvm::omp::target::plugin::GenericPluginTy::isDeviceCompatible(int, llvm::StringRef)";
     "llvm::omp::target::plugin::GenericPluginTy::isPluginCompatible(llvm::StringRef)";
-    "llvm::omp::target::plugin::GenericPluginTy::is_accessible_ptr(int, void const*, unsigned long)";
     "llvm::omp::target::plugin::GenericPluginTy::is_data_exchangable(int, int)";
     "llvm::omp::target::plugin::GenericPluginTy::is_initialized() const";
     "llvm::omp::target::plugin::GenericPluginTy::launch_kernel(int, void*, llvm::omp::target::plugin::KernelLaunchArgsTy&, __tgt_async_info*)";
